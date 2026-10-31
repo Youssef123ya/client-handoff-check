@@ -1,0 +1,38 @@
+{
+  "checkFormatVersion": "2.0.0",
+  "status": "static-pass",
+  "target": {
+    "skillName": "client-handoff-check"
+  },
+  "catalog": {
+    "checkedVersion": "2.0.0"
+  },
+  "files": [
+    {
+      "path": "references/disclosures.md",
+      "sha256": "e9282ec9289bc57650cf689f703581a5a307ba6ecde8672d9355ea25ba4d53d5"
+    },
+    {
+      "path": "references/evidence-rules.md",
+      "sha256": "2f8ffdc327233401c1876cf59acd76cd36eae4ba0418a3e582c4769c15433f71"
+    },
+    {
+      "path": "references/report-format.md",
+      "sha256": "971fa6050dd3604f252f8cdfd8f0190e3a092338a0fc79e2fa2f3e156a4dc399"
+    },
+    {
+      "path": "references/validation.md",
+      "sha256": "9f2a45eddfb61458f773b66f26a1569f163df6f6d6d788a4c3734804bb2a3f3d"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "912e9705969a94d4797acee39989cafb2486fc0a093bb54d3a707c93a38a7373"
+    }
+  ],
+  "summary": {
+    "errors": 0,
+    "warnings": 0,
+    "info": 0
+  },
+  "diagnostics": []
+}

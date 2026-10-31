@@ -1,0 +1,10 @@
+SYNTHETIC PROJECT BRIEF - DEMONSTRATION DATA
+Project: Harbor Studio Launch Kit
+Approved deliverables, each as a non-empty file:
+1. logo.svg
+2. logo.png
+3. social-01.png
+4. social-02.png
+5. social-03.png
+All five files belong in the selected delivery directory. The draft file social-final-draft.png is not an approved substitute.
+This demonstration checks file presence only. No actual client or personal data is included.
